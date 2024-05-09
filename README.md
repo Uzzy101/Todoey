@@ -1,16 +1,5 @@
 # todoey
 
-An app to track your activities daily
+A simple app to track your activities daily. Easily add tasks and remove them upon completion. I built this application using the State Management pricniples; by storing and reusing certain information with the use of the Provider package, I was abla to build an effective way of helping users track their daily tasks. Check out the applicationa and see for yourself.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
